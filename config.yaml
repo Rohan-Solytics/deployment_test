@@ -1,0 +1,2 @@
+cpu_limit: 80  # CPU usage limit in percentage
+ram_limit: 80  # RAM usage limit in percentage
